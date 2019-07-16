@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/media/pic_action01@3x.b6a9b188.png"
   },
   {
-    "revision": "be85a8227113f2b9d764",
+    "revision": "49503124e2e60cf01bb6",
     "url": "/BCCSurvey/static/css/main.9f118dd9.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/media/pic_2_indroduction@3x.1bcb9114.png"
   },
   {
-    "revision": "be85a8227113f2b9d764",
-    "url": "/BCCSurvey/static/js/main.54601425.chunk.js"
+    "revision": "49503124e2e60cf01bb6",
+    "url": "/BCCSurvey/static/js/main.57ab26c6.chunk.js"
   },
   {
     "revision": "ff74d945153e34e7a760a27ec15b7336",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/BCCSurvey/static/media/pic_2_indroduction.96e6da5b.svg"
   },
   {
-    "revision": "cedc44047819641563c2c800746f9e40",
+    "revision": "f2a885fd22676de3010ced3231a180e0",
     "url": "/BCCSurvey/index.html"
   }
 ];
